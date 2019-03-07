@@ -1,4 +1,4 @@
-package com.chanel.hybris.fnb.ecom.saml.filter;
+package com.boufnichel.hybris.filter;
 
 import de.hybris.platform.core.Registry;
 import de.hybris.platform.util.Config;

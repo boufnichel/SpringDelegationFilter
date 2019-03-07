@@ -1,4 +1,4 @@
-package com.chanel.hybris.fnb.ecom.saml.filter;
+package com.boufnichel.hybris.filter;
 
 import java.util.List;
 
